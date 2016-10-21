@@ -5,7 +5,7 @@
 
 **Package Control** 
 
-> Um plugin que gerencia outros plugins =), com ele é possivel organizar seus plugins, editar excluir e muito mais.
+> Um plugin que gerência outros plugins =), com ele é possivel organizar seus plugins, editar excluir e muito mais.
 > https://packagecontrol.io/installation
 
 
@@ -14,5 +14,10 @@
 > O Brackethighlighter trabalha como um marcador, nele é possivel saber onde inicia e termina suas tags.
 > https://github.com/facelessuser/BracketHighlighter
 
+
+**CSS3** 
+
+> Apesar de não trabalhar muito com css,é sempre bom ter esse complemento para sublime, ajuda a mater a organização dos codigos.
+> https://github.com/y0ssar1an/CSS3
 
 
