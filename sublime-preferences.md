@@ -31,3 +31,10 @@
 
 > Este é um pacote Texto Sublime para ajudar com funções jQuery. Tem destaque de sintaxe e quase todos os métodos jQuery. 
 > https://github.com/SublimeText/jQuery
+
+
+**JavaScriptNext** 
+
+> Este é um pacote de sintaxe melhorada para JavaScript.
+> https://github.com/Benvie/JavaScriptNext.tmLanguage
+
