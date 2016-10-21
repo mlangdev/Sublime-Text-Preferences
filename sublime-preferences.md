@@ -21,3 +21,8 @@
 > https://github.com/y0ssar1an/CSS3
 
 
+**Emmet** 
+
+> O Emmet ajuda na codificação HTML e CSS, com ele é possivel criar codigos de uma maneira mais rapida usando expressoes especificas do plugin. 
+> http://emmet.io/
+
