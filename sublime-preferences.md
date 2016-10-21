@@ -38,3 +38,9 @@
 > Este é um pacote de sintaxe melhorada para JavaScript.
 > https://github.com/Benvie/JavaScriptNext.tmLanguage
 
+
+**HTMLAttributes** 
+
+> Assim como Javascript, jquery, css o html tambémm tem um complemento para o sublime .
+> https://github.com/agibsonsw/HTMLAttributes
+
