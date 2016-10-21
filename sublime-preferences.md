@@ -17,12 +17,17 @@
 
 **CSS3** 
 
-> Apesar de não trabalhar muito com css,é sempre bom ter esse complemento para sublime, ajuda a mater a organização dos codigos.
+> Apesar de não trabalhar muito com css,é sempre bom ter esse complemento para sublime, ajuda a mater a organização dos códigos.
 > https://github.com/y0ssar1an/CSS3
 
 
 **Emmet** 
 
-> O Emmet ajuda na codificação HTML e CSS, com ele é possivel criar codigos de uma maneira mais rapida usando expressoes especificas do plugin. 
+> O Emmet ajuda na codificação HTML e CSS, com ele é possível criar códigos de uma maneira mais rápida usando expressões especificas do plugin. 
 > http://emmet.io/
 
+
+**JQuery** 
+
+> Este é um pacote Texto Sublime para ajudar com funções jQuery. Tem destaque de sintaxe e quase todos os métodos jQuery. 
+> https://github.com/SublimeText/jQuery
