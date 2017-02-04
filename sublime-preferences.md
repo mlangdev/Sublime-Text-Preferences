@@ -44,3 +44,77 @@
 > Assim como Javascript, jquery, css o html tambémm tem um complemento para o sublime .
 > https://github.com/agibsonsw/HTMLAttributes
 
+
+**Material Color Scheme** 
+
+> https://packagecontrol.io/packages/Material%20Color%20Scheme
+
+
+**Material Theme** 
+
+> https://github.com/equinusocio/material-theme
+
+
+**Material Theme** 
+
+> https://github.com/equinusocio/material-theme
+
+
+**PHP Completions Kit** 
+
+> https://packagecontrol.io/packages/PHP%20Completions%20Kit
+
+
+**PHP Syntax Checker** 
+
+> https://packagecontrol.io/packages/PHP%20Syntax%20Checker
+
+
+**PHPUnit** 
+
+> https://packagecontrol.io/packages/PHPUnit
+
+
+**Side​Bar​Enhancements** 
+
+> https://packagecontrol.io/packages/SideBarEnhancements
+
+
+**StringEncode** 
+
+> https://github.com/colinta/SublimeStringEncode
+
+
+**Sublime Text 2 plugin: Clipboard History** 
+
+> https://github.com/kemayo/sublime-text-2-clipboard-history
+
+
+**Sublime Angular Material snippets** 
+
+> https://github.com/devotis/sublime-angular-material-snippets
+
+
+**Sublime Text 2 Plugin : AngularInject** 
+
+> https://github.com/ayamflow/AngularInject
+
+
+**AngularJS Sublime Text Package** 
+
+> https://github.com/angular-ui/AngularJS-sublime-package
+
+
+**Code​Igniter Snippets** 
+
+> https://packagecontrol.io/packages/CodeIgniter%20Snippets
+
+
+**Java​Script Completions** 
+
+> https://packagecontrol.io/packages/JavaScript%20Completions
+
+
+**Type​Script** 
+
+> https://packagecontrol.io/packages/TypeScript
