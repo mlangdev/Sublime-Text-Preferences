@@ -1,5 +1,5 @@
 # Minhas preferencias no Sublime
-
+```json
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
@@ -27,3 +27,4 @@
 	"overlay_scroll_bars": "enabled",
 	"theme": "Material-Theme.sublime-theme"
 }
+```
