@@ -55,11 +55,6 @@
 > https://github.com/equinusocio/material-theme
 
 
-**Material Theme** 
-
-> https://github.com/equinusocio/material-theme
-
-
 **PHP Completions Kit** 
 
 > https://packagecontrol.io/packages/PHP%20Completions%20Kit
